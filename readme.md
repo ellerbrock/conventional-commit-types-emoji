@@ -1,7 +1,7 @@
 # [conventional-commit-types-emoji](https://www.npmjs.com/package/conventional-commit-types-emoji)
 
 
-[![Build Status](https://travis-ci.org/ellerbrock/conventional-changelog-angular-emoji.svg?branch=master)](https://travis-ci.org/ellerbrock/conventional-changelog-angular-emoji) [![Javascript](https://badges.frapsoft.com/javascript/code/javascript.svg?v=100)](https://github.com/ellerbrock/javascript-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+[![Javascript](https://badges.frapsoft.com/javascript/code/javascript.svg?v=100)](https://github.com/ellerbrock/javascript-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 *This is a fork from [conventional-commit-types](https://github.com/commitizen/conventional-commit-types).*
 
