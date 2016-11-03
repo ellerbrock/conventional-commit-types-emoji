@@ -1,8 +1,14 @@
 {
   "name": "conventional-commit-types-emoji",
-  "version": "0.0.2",
   "description": "List of conventional commit types with emojis.",
+  "version": "0.0.2",
   "main": "index.json",
+  "author": "Maik Ellerbrock <opensource@frapsoft.com> (https://github.com/ellerbrock)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellerbrock/conventional-commit-types-emoji.git"
+  },
   "scripts": {
     "commit": "git add --all && git status && git-cz",
     "pre-release": "npm test",
@@ -10,13 +16,12 @@
     "post-release": "greenkeeper-postpublish",
     "test": "json -f index.json"
   },
-  "keywords": [],
-  "author": "Maik Ellerbrock <opensource@frapsoft.com> (https://github.com/ellerbrock)",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ellerbrock/conventional-commit-types-emoji.git"
-  },
+  "keywords": [
+    "angular",
+    "conventional-commits",
+    "commitizen",
+    "emoji"
+  ],
   "devDependencies": {
     "commitizen": "2.8.6",
     "greenkeeper-postpublish": "1.0.1",
