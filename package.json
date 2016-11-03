@@ -1,8 +1,8 @@
 {
   "name": "conventional-commit-types-emoji",
   "description": "List of conventional commit types with emojis.",
-  "version": "0.0.2",
-  "main": "index.json",
+  "version": "0.1.0",
+  "main": "src/index.json",
   "author": "Maik Ellerbrock <opensource@frapsoft.com> (https://github.com/ellerbrock)",
   "license": "ISC",
   "repository": {
@@ -16,6 +16,9 @@
     "post-release": "greenkeeper-postpublish",
     "test": "json -f index.json"
   },
+  "files": [
+    "src"
+  ],
   "keywords": [
     "angular",
     "conventional-commits",
