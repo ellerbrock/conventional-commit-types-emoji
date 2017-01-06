@@ -26,7 +26,7 @@
     "emoji"
   ],
   "devDependencies": {
-    "commitizen": "2.9.0",
+    "commitizen": "2.9.4",
     "greenkeeper-postpublish": "1.0.1",
     "json": "^9.0.4",
     "standard-version": "4.0.0"
