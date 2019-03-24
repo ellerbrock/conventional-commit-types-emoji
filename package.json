@@ -29,6 +29,6 @@
     "commitizen": "3.0.6",
     "greenkeeper-postpublish": "1.1.0",
     "json": "^9.0.4",
-    "standard-version": "4.2.0"
+    "standard-version": "4.3.0"
   }
 }
